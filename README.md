@@ -153,7 +153,7 @@ Be ready to explain:
 
 ## Author / team
 
-Add your name, partner's name (if any), class, and date before submitting.
+SRINATH DSP , VARUN YADAV A S (if any), ECE 5C class, and date before submitting.
 
 ---
 
